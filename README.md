@@ -74,7 +74,7 @@ You should now be able to launch the mod directly through Steam!
 That's it! You should have a basic understanding on how to install regular and standalone mods in Portal 2.
 
 ## See Also
-* [Portal 2 Workshop](https://store.steampowered.com/mods/620/)
-* [Community-Made Mods](https://store.steampowered.com/app/620/Portal_2/)
+* [Portal 2 Workshop](https://steamcommunity.com/app/620/workshop/)
+* [Community-Made Mods](https://store.steampowered.com/mods/620/)
 
 This guide will be updated over time. If you find anything that can be improved on, please feel free to reach out!
