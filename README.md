@@ -1,10 +1,6 @@
-<div align="center">
-
-![banner](./images/banner.png)
-
-</div>
-
 A guide on how to download and install [Portal 2](https://store.steampowered.com/app/620/Portal_2/) **mods** on **Windows** and **Linux**! This includes downloading mods, setting them up through the [Steam Workshop](https://store.steampowered.com/) or using standalone folders, and launching them.
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-download-install-mods-in-portal-2/)
 
 Whether you want to experience fan-made campaigns or build your own test chambers, this guide will help you get started!
 
